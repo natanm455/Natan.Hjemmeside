@@ -1,0 +1,89 @@
+
+body{
+    background-color: #345B63;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 97%;
+}
+h1 {
+    color: #112031;
+}
+h2{
+    color: #112031;
+}
+h3 {
+    color: #112031;
+}
+
+
+p {
+    color: #D4ECDD;
+}
+
+td {
+    color: #D4ECDD;
+}
+
+a {
+    color: #112031;
+}
+
+ul {
+    color: #112031;
+}
+
+th {
+    color: #112031;
+}
+
+.Box {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header {
+    background:#D4ECDD;;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;    
+}
+
+.pro {
+    float: left;
+    padding: 10px;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 50px;
+}
+
+nav a {
+    color: #112031;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+nav :hover {
+    color: #ffffff;
+}

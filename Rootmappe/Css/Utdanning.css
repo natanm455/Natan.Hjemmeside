@@ -1,0 +1,22 @@
+body{
+    background-color: #345B63;
+    position: relative;
+}
+
+ul {
+    position: relative;
+    left: 3cm;
+}
+
+h3 {
+    position: relative;
+    left: 3cm;
+}
+
+li {
+    color: #D4ECDD;
+}
+
+a {
+    color: #112031;
+}

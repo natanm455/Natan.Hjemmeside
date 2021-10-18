@@ -1,0 +1,27 @@
+body{
+    background-color: #345B63;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 95%;
+}
+
+
+td {
+    position: relative;
+    left: 3cm;
+}
+
+.profilBilde {
+    position: relative;
+    right: 3cm;
+}
+
+.Pa {
+    position: relative;
+    left: 3cm;
+}
